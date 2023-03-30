@@ -34,10 +34,8 @@ I used Arduino IDE to write and upload the code.
   * <Servo.h>: to work with our Servo motor
  
 **3rd party apps:**
-  * BT Car (android): for bluetooth Dpad control 
-  * '' https://drive.google.com/file/d/1DXr-QmpZ3TaMstY1qKcxu4LLNM26HiUW/view ''
-  * Arduino Bluetooth controller (android): for bluetooth voice control 
-  * '' https://drive.google.com/file/d/1xkiM3GqHRDYxyqz5ztFWlB-ux6jLU944/view ''
+  * BT Car (android): for bluetooth Dpad control: https://drive.google.com/file/d/1DXr-QmpZ3TaMstY1qKcxu4LLNM26HiUW/view
+  * Arduino Bluetooth controller (android): for bluetooth voice control: https://drive.google.com/file/d/1xkiM3GqHRDYxyqz5ztFWlB-ux6jLU944/view
 
 **Functions implemented:** 
 - fdpad(), bdpad(), rdpad(), ldpad(), topl(), topr(), bottomr(), bottoml()**
