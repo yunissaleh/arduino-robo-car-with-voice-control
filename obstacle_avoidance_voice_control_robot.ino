@@ -4,6 +4,7 @@
 
 #include <Servo.h>
 
+
 #define TRIGGER_PIN A0
 #define ECHO_PIN A1
 #define MAX_DISTANCE 300
