@@ -54,7 +54,7 @@ This method calls the bdpad() method unless one of our IR sensors senses an obje
 
 
 - backwardright(), backwardleft():
-Call the bottomr() or bottoml method, stops the motors after 0.5s (''motor1.run(RELEASE);'').
+Call the bottomr() or bottoml method, stops the motors after 0.5s (''motor1.run(RELEASE)'').
 
 - right(), left():
 Having our ultrasonic sensor mounted on a servo motor, these functions move the servo motor either to the right or left, then it goes back to the middle adding animation, then either the rdpad() or ldpad() method will be called, and the motors will stop after 0.7s.
@@ -67,5 +67,5 @@ Mostly if statements, when our input matches with 'F' or 'B' or 'L' or 'R' or...
 when the input is "move forward" or "move backward", the forward() or backward() methods will keep running in a while loop until one of the sensors senses a nearby object.
 
 # Results
-**Demo:** https://youtube.com/watch?v=kqReeGgIopE
+**Demo:** https://youtu.be/iAZBchq8MgA
 
